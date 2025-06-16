@@ -1,0 +1,3 @@
+Config = {
+    allowoff = true
+}
